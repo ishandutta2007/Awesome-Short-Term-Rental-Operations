@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Guesty](https://www.guesty.com/)**  
-
-  Leading AI-powered vacation rental PMS for multi-channel distribution, automation, operations, and portfolio scaling.
-
-
-
-- **[Hostaway](https://www.hostaway.com/)**  
-
-  Popular all-in-one vacation rental management platform with strong channel management, automation, and marketplace integrations.
-
-
-
-- **[Hospitable](https://hospitable.com/)**  
-
-  Host-focused PMS known for excellent automation, messaging, and ease of use, especially for smaller to mid-sized portfolios.
-
-
-
-- **[Host Tools](https://hosttools.com/)**  
-
-  Automation and messaging platform widely used by Airbnb hosts for dynamic messaging, pricing rules, and operational workflows.
-
-
-
-- **[Turno](https://turno.com/)**  
-
-  Cleaning and turnover operations platform that automatically schedules cleaners based on reservations and coordinates task management.
-
-
-
-- **[Operto](https://operto.com/)**  
-
-  Connected operations platform covering smart locks, thermostats, sensors, guest access, and property automation.
-
-
-
-- **[Chekin, Enso Connect](https://chekin.com/)**  
-
-  Guest check-in, digital registration, upselling, and guest experience platforms that automate arrival workflows.
-
-
-
-- **[Minut](https://www.minut.com/)**  
-
-  Noise, occupancy, and environmental monitoring sensors and platform designed for short-term rental compliance and guest experience.
-
-
-
-- **[Properly](https://www.properly.io/)**  
-
-  Operations and quality-control platform focused on cleaning verification, issue tracking, and field-team coordination.
-
-
-
-- **[Other STR operations tools](https://www.guesty.com/)**  
-
-  Additional solutions for dynamic pricing, smart access, guest screening, and specialized operations workflows.
+| Product | Description | Starting Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Guesty](https://www.guesty.com/)** | AI-powered vacation rental PMS for multi-channel distribution, automation, operations, and portfolio scaling. | Starts at $9 / listing / month (Guesty Lite for 1–3 listings, billed annually) | 14-day free trial (Guesty Lite plan, up to 3 listings; no credit card required) |
+| **[Hostaway](https://www.hostaway.com/)** | All-in-one vacation rental management platform with strong channel management, automation, and marketplace integrations. | Starts at ~$50 / listing / month (for small portfolios; setup fee applies) | No free trial (1-on-1 live demo required for custom platform setup and data migration) |
+| **[Hospitable](https://hospitable.com/)** | Host-focused PMS known for automated messaging, AI responses, team management, and multi-channel calendar sync. | Free (Essentials plan) / Paid plans start at $25.52 / month (Host plan for 1 property) | Free-forever Essentials plan (unified inbox, messaging & calendar sync); 14-day free trial of full features (Mogul plan, no credit card required) |
+| **[Host Tools](https://hosttools.com/)** | Automation and messaging platform for Airbnb hosts with smart lock integrations and dynamic messaging rules. | Starts at $10 / listing / month (Messaging plan; $7/mo on annual billing) | 14-day free trial (full access to all features; no credit card required) |
+| **[Turno](https://turno.com/)** | Cleaning and turnover operations platform that automatically schedules cleaners based on reservations and coordinates tasks. | Free for 1 property / Paid plans start at $8 / property / month ($6/mo on annual billing) | Free-forever plan for 1 property (full turnover management); 14-day free trial for multi-property portfolios (no credit card required) |
+| **[Operto](https://operto.com/)** | Connected operations platform managing smart lock access codes, noise monitoring, thermostats, and guest workflows. | Starts at $7 / property / month (Operto Teams module; core automation custom quoted) | No free trial (free live product demo and onboarding consultation required) |
+| **[Chekin](https://chekin.com/)** | Guest check-in platform automating legal registration, identity verification, tourist taxes, and digital key access. | Starts at €3.95 / property / month (~$4.30/mo, Basic plan; minimum 3 properties) | 14-day free trial (full access to check-in features; no credit card required) |
+| **[Enso Connect](https://ensoconnect.com/)** | Guest experience platform offering web-based boarding pass, smart key access, upsells, and guest verification. | Starts at ~$9 / listing / month (based on portfolio size; setup fee applies) | No free trial (30-minute personalized live demo required for onboarding) |
+| **[Minut](https://www.minut.com/)** | Noise, occupancy, cigarette smoke, and environmental monitoring sensor and software platform. | Starts at $5 / home / month (Starter plan billed annually at $60/yr; requires sensor purchase at ~$100) | No free trial (30-day money-back guarantee; 3 months free promo with annual sensor purchase) |
+| **[Properly](https://www.properly.io/)** | Operations and quality-control platform focused on cleaning verification, visual checklists, and field-team coordination. | Starts at $12.99 / property / month (SaaS Platform plan) | 30-day free trial (platform services, full features) |
 
 
 
