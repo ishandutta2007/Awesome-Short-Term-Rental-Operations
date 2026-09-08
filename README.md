@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Short-Term-Rental-Operations/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Short-Term-Rental-Operations?style=social&color=white" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Short-Term-Rental-Operations/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Short-Term-Rental-Operations?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Short-Term-Rental-Operations/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Short-Term-Rental-Operations?style=social&color=white" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -67,46 +67,46 @@ Whether you manage a single Airbnb listing or a portfolio of 500+ properties acr
 
 ## 💻 Open-Source GitHub Projects 🛠️
 
-*Full multi-channel PMS platforms with direct OTA API integrations are predominantly commercial. However, open-source options excel at calendar synchronization, self-hosted PMS cores, cleaning checklists, and smart home IoT access. The list below is sorted by **GitHub Stars (Descending)**.*
+*Full multi-channel PMS platforms with direct OTA API integrations are predominantly commercial. However, open-source options excel at calendar synchronization, self-hosted PMS cores, cleaning checklists, and smart home IoT access. The list below is sorted by **GitHub_Stars (Descending)**.*
 
 1. **[QloApps](https://github.com/Qloapps/QloApps)** 🏨  
-   [![GitHub stars](https://img.shields.io/github/stars/Qloapps/QloApps?style=social&color=white)](https://github.com/Qloapps/QloApps/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/Qloapps/QloApps?style=social&color=white)](https://github.com/Qloapps/QloApps/stargazers)  
    Comprehensive open-source Property Management System (PMS), booking engine, and customizable hotel website platform. Ideal for boutique stays, small hotels, and hybrid rental portfolios.
 
 2. **[MicroCommunity](https://github.com/java110/MicroCommunity)** 🏢  
-   [![GitHub stars](https://img.shields.io/github/stars/java110/MicroCommunity?style=social&color=white)](https://github.com/java110/MicroCommunity/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/java110/MicroCommunity?style=social&color=white)](https://github.com/java110/MicroCommunity/stargazers)  
    Java microservices-based open-source property management software designed for multi-unit rental communities, residential complexes, and property operations.
 
 3. **[Condo](https://github.com/open-condo-software/condo)** 📑  
-   [![GitHub stars](https://img.shields.io/github/stars/open-condo-software/condo?style=social&color=white)](https://github.com/open-condo-software/condo/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/open-condo-software/condo?style=social&color=white)](https://github.com/open-condo-software/condo/stargazers)  
    Open-source SaaS platform for property management companies featuring resident contact tracking, service ticket management, invoicing, and mini-app extensibility.
 
 4. **[Movin' In](https://github.com/aelassas/movinin)** 🏠  
-   [![GitHub stars](https://img.shields.io/github/stars/aelassas/movinin?style=social&color=white)](https://github.com/aelassas/movinin/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/aelassas/movinin?style=social&color=white)](https://github.com/aelassas/movinin/stargazers)  
    Modern open-source rental property management platform equipped with a web admin panel, tenant management, and native iOS and Android mobile apps.
 
 5. **[Home Assistant Rental Control](https://github.com/tykeal/homeassistant-rental-control)** 🔑  
-   [![GitHub stars](https://img.shields.io/github/stars/tykeal/homeassistant-rental-control?style=social&color=white)](https://github.com/tykeal/homeassistant-rental-control/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/tykeal/homeassistant-rental-control?style=social&color=white)](https://github.com/tykeal/homeassistant-rental-control/stargazers)  
    Popular Home Assistant integration that automatically parses Airbnb and VRBO iCal reservations to generate temporary, time-bound access door codes on smart locks.
 
 6. **[Sync Rentals Calendar](https://github.com/pixelcrash/Sync-Rentals-Calendar)** 🔄  
-   [![GitHub stars](https://img.shields.io/github/stars/pixelcrash/Sync-Rentals-Calendar?style=social&color=white)](https://github.com/pixelcrash/Sync-Rentals-Calendar/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/pixelcrash/Sync-Rentals-Calendar?style=social&color=white)](https://github.com/pixelcrash/Sync-Rentals-Calendar/stargazers)  
    Self-hosted microservice that synchronizes Airbnb, Booking.com, and custom iCal rental calendars on your own server to prevent double bookings.
 
 7. **[Kamra PMS](https://github.com/Kamra-PMS/kamra-pms)** 🛎️  
-   [![GitHub stars](https://img.shields.io/github/stars/Kamra-PMS/kamra-pms?style=social&color=white)](https://github.com/Kamra-PMS/kamra-pms/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/Kamra-PMS/kamra-pms?style=social&color=white)](https://github.com/Kamra-PMS/kamra-pms/stargazers)  
    Open-source hotel & short-term rental PMS built on Frappe featuring front-desk operations, tax folios, WhatsApp integration, and housekeeping workflows.
 
 8. **[RentTools / RentTools.io](https://github.com/Gribadan/RentTools.io)** 🛠️  
-   [![GitHub stars](https://img.shields.io/github/stars/Gribadan/RentTools.io?style=social&color=white)](https://github.com/Gribadan/RentTools.io/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/Gribadan/RentTools.io?style=social&color=white)](https://github.com/Gribadan/RentTools.io/stargazers)  
    Free, open-source property manager for short-term rental hosts. Syncs Airbnb and Booking.com iCals, automates turnover schedules, and supports guest passport extraction.
 
 9. **[LibreProperty](https://github.com/LibreProperty/LibreProperty)** 🌐  
-   [![GitHub stars](https://img.shields.io/github/stars/LibreProperty/LibreProperty?style=social&color=white)](https://github.com/LibreProperty/LibreProperty/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/LibreProperty/LibreProperty?style=social&color=white)](https://github.com/LibreProperty/LibreProperty/stargazers)  
    Open-source property management project for short-term rentals designed for community-driven multi-platform reservation tracking.
 
 10. **[OpenSTR](https://github.com/lkilpatrick/OpenSTR)** 🧹  
-    [![GitHub stars](https://img.shields.io/github/stars/lkilpatrick/OpenSTR?style=social&color=white)](https://github.com/lkilpatrick/OpenSTR/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/lkilpatrick/OpenSTR?style=social&color=white)](https://github.com/lkilpatrick/OpenSTR/stargazers)  
     Self-hosted short-term rental cleaning and operations tracker designed for host photo verification, checklist management, and cleaner scheduling.
 
 ---
